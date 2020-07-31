@@ -1,0 +1,14 @@
+C:\Users\foxy\source\repos\Zsákbamacska Generátor\bin\Debug\Zsákbamacska Generátor.exe.config
+C:\Users\foxy\source\repos\Zsákbamacska Generátor\bin\Debug\Zsákbamacska Generátor.exe
+C:\Users\foxy\source\repos\Zsákbamacska Generátor\bin\Debug\Zsákbamacska Generátor.pdb
+C:\Users\foxy\source\repos\Zsákbamacska Generátor\obj\Debug\Zsákbamacska Generátor.csprojAssemblyReference.cache
+C:\Users\foxy\source\repos\Zsákbamacska Generátor\obj\Debug\Zsákbamacska_Generátor.Form1.resources
+C:\Users\foxy\source\repos\Zsákbamacska Generátor\obj\Debug\Zsákbamacska_Generátor.Properties.Resources.resources
+C:\Users\foxy\source\repos\Zsákbamacska Generátor\obj\Debug\Zsákbamacska Generátor.csproj.GenerateResource.cache
+C:\Users\foxy\source\repos\Zsákbamacska Generátor\obj\Debug\Zsákbamacska Generátor.csproj.CoreCompileInputs.cache
+C:\Users\foxy\source\repos\Zsákbamacska Generátor\obj\Debug\Zsákbamacska Generátor.exe
+C:\Users\foxy\source\repos\Zsákbamacska Generátor\obj\Debug\Zsákbamacska Generátor.pdb
+C:\Users\foxy\source\repos\Zsákbamacska Generátor\obj\Debug\Zsákbamacska_Generátor.Form2.resources
+C:\Users\foxy\source\repos\Zsákbamacska Generátor\obj\Debug\Zsákbamacska_Generátor.about.resources
+C:\Users\foxy\source\repos\Zsákbamacska Generátor\obj\Debug\Zsákbamacska_Generátor.ohshit.resources
+C:\Users\foxy\source\repos\Zsákbamacska Generátor\obj\Debug\Zsákbamacska_Generátor.szivas.resources
